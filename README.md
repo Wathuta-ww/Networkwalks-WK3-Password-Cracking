@@ -1,5 +1,3 @@
-![Password Cracking Labs — John the Ripper & Hash Analysis Tools](banner.png)
-
 # PASSWORD CRACKING REPORT
 
 ### John the Ripper (JTR) & Networkwalks Password Cracking Tools
